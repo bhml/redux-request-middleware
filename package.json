@@ -28,6 +28,7 @@
     "babel-eslint": "^6.0.4",
     "eslint": "^1.5.1",
     "eslint-config-founderlab": "^0.1.0",
+    "eslint-plugin-react": "^3.16.1",
     "expect": "^1.13.0",
     "mocha": "^2.2.5",
     "sinon": "^1.17.1"
